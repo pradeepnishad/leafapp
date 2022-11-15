@@ -274,9 +274,9 @@ hr{
 }
 
 .feature-img-2{
-  width: 40%;
+  width: 30%;
   padding-bottom: 10px ;
-  height:170px;
+  height:130px;
 }
 
 .feature-desc-2{
@@ -294,7 +294,7 @@ hr{
 }
 
 .feature-img-3{
-  width: 40%;
+  width: 30%;
   margin-left: 100px;
 }
 
@@ -313,7 +313,7 @@ hr{
 }
 
 .feature-img-4{
-  width: 40%;
+  width: 30%;
   margin-right:  50px;
 }
 
@@ -350,7 +350,7 @@ hr{
 
 .desc-about{
   position: absolute;
-  margin-top: 25%;
+  margin-top: 12%;
   font-size: 1.5rem;
   font-family: "Londrina Solid", cursive;
   letter-spacing: 3px;
